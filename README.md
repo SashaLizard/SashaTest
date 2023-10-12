@@ -5,8 +5,8 @@
 
 <h1 align="center">Sasha Test</h1>
 
-Learning to mod.
+## Learning to mod BTD6.
 
-![Screenshot of Time Machine UI](Screenshot.png)
+![Empty for now](Screenshot.png)
 
 [![Requires BTD6 Mod Helper](https://raw.githubusercontent.com/gurrenm3/BTD-Mod-Helper/master/banner.png)](https://github.com/gurrenm3/BTD-Mod-Helper#readme)
